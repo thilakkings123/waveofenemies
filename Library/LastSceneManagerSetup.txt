@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SASAssets/CS_Assets/CS_Scenes/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
